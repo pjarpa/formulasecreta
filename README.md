@@ -1,11 +1,13 @@
 # formulasecreta
 Proyecto de Narrativas Transmedia en Nuevos Medios
 
+**Título** : “La fórmula: descubre el secreto oculto de la cerveza a través de la realidad aumentada”
+
 **Autor(es)** : Patricia Jarpa Candia
 
 **Resumen** :  Con este proyecto se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje.
 
-**Logotipo**: ![](images/logo_formula.jpg)
+**Logotipo**: ![](images/logo_formula.jpeg)
 
 **Slogan** (frase motivadora/inspiradora): "Descubre el secreto oculto de la cerveza"
 
@@ -30,62 +32,68 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
-
-**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
-
-* ["Geo Catching"](https://www.geocaching.com/play): Geocaching es una actividad recreativa al aire libre, en la cual los participantes usan un receptor o dispositivo móvil del Sistema de Posicionamiento Global (GPS) y otras técnicas de navegación para esconderse y buscar contenedores, llamados "geocachés" o "cachés", en ubicaciones específicas marcadas por coordenadas por todo el mundo. Este proyecto me parece interesante por la idea de la búsqueda de tesoros escondidos hechos por distintas personas, con la posibilidad de enlazar una actividad lúdica de búsqueda en un espacio físico a través de herrramientas digitales.
-* ["Augmentedt Reality Cinema" - Cine y Realidad Aumentada](https://www.youtube.com/watch?v=at4KYS9kLrI). Proyecto donde los usuarios pueden ver las escenas de determinadas películas al pasar por los lugares donde se han rodado. Usando la realidad aumentada, la aplicación detecta los lugares y reproduce los fragmentos de las películas que se rodaron allí. Es un buen ejemplo de cómo se construyen nuevos espacios gracias a la realidad aumentada.
-* ["Historia de una fuente"](http://historiadeunafuente.blogspot.com/). Proyecto de producción inmersiva que con utilización de herramientas de realidad aumentada y redes sociales busca contar historias sobre un lugar. Es una propuesta muy interesante para reflexionar sobre las narrativas espontáneas generadas en un espacio físico.
-* ["Weird Cuts](https://experiments.withgoogle.com/weird-cuts). Es una herramienta que invita a los usuarios a hacer collages y ensamblajes en el espacio AR mediante la fotografía. Ha servido de inspiración para entender como los propios usuarios pueden generar un contenido creativo y crear un espacio nuevo gracias a la realidad aumentada.
-* ["Imaginary Soundscape"](https://experiments.withgoogle.com/imaginary-soundscape). Es una instalación de sonido basada en la web, que se centra en este comportamiento inconsciente, donde los espectadores pueden caminar libremente por Google Street View y sumergirse en paisajes sonoros imaginarios generados con modelos de aprendizaje profundo. Este proyecto ha servido de inspiración para la creación de nuevos espacios virtuales en base de un lugar real.
-
-
 **Necesidad/oportunidad**:
 
-En una época de inmediatez y brevedad, los mensajes se han vuelto cada vez más efímeros y desechables, pero un mensaje a través del tiempo puede adquirir un valor relevante para generaciones futuras que pueden aprender con ello más de nuestro tiempo, de nuestra cultura o de nuestros pensamientos. Un pueblo sin memoria es un pueblo sin historia.
+El uso de tecnologías innovadoras y nuevas formas de comunicación que permitan construir una mirada actual y reflexiva sobre los mensajes publicitarios en el contexto de los nuevos medios, presentan las siguientes oportunidades y necesidades: 
+- Innovar con una fórmula poco explotada en publicidad digital.
+- Aparición de clientes que necesitan servicios de comunicación novedosos para llamar la atención del mercado y diferenciarse de su competencia.
+- Atender al crecimiento de público interesado en nuevas formas de contenido y entretenimiento.
 
-**Motivación de la propuesta**:
+**Descripción de la experiencia**:
 
-Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía tras Mementos.    
+Se pretende construir una historia principal emplazada dentro de la realidad aumentada, con un inicio obligado, transitando luego por una narrativa modular en que el usuario puede elegir distintos caminos a recorrer, dependiendo de su interés y curiosidad, enfrentándose a desafíos y juegos. Sólo al final del recorrido, en un punto común para todas las líneas narrativas, el usuario deberá responder a un cuestionario donde se pondrá a prueba sus capacidades de investigación, reconociendo en esa acción la fórmula secreta, que ha sido el motivo de inicio de la experiencia.
 
-**Personas/Usuarios**:  
+Se propone además medios de expansión donde los usuarios podrán acceder a información complementaria de la historia, así como para compartir ideas y opiniones. Para ello se proyecta la creación de una página web especial o Wiki 
+con datos sobre lugares y personajes que inspiraron la narración, recomendaciones de maridaje y música, además de un espacio creativo llamado Historia Exquisita donde los usuarios podrán seguir expandiendo la historia a partir de una línea narrativa no desarrollada en la historia original y que permitirá, a través de la colaboración colectiva, ir construyendo un nuevo texto literario.
 
-Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
+También se tendrá una extensión en redes sociales, para ofrecer narrativas en relación a la historia principal, a través de contenido aparentemente creado por los personajes principales, sea a través del hilado de mensajes del personaje el Escritor en la red de microblogging de Twitter, o el posteo en Instagram de el Camarero. 
+
+La experiencia de realidad aumentada considera el que los usuarios pueden compartir y comentar su fórmula con amigos o conocidos colocando las etiquetas fórmulasecreta y micerveza, permitiendo con ello la viralidad de la experiencia en redes sociales y el alcance a otros posibles consumidores del producto.
+   
 
 **Estilo de narración**:
 
-Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
+La audiencia se sumergirá en la historia a través del rol de la protagonista, la detective Carolina Bravo, que a través de la elección de pistas y de entrevistas, deberá descubrir cuál es la fórmula secreta tras una enigmática cerveza. El medio principal será la Realidad Aumentada, cuya vía de acceso será a través de marcadores o imágenes activadoras que formarán parte del empaque de la marca y que serán capturados a través del móvil del usuario. El relato al interior de la realidad aumentada se propagará a través de distintos formatos, utilizando imágenes 3D y 2D, audios, videos, y textos para generar la experiencia de inmersión en la historia, así como la inclusión de redes sociales y página web para aportar información, ampliar la narración y permitir acciones para promover la participación del usuario.
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+(Productos que has desarrollado y como se plantea la integración de los diferentes medios) 
 
-**Análisis funcional de la app**: 
+**Análisis funcional de la experiencia**: 
 
-*Esquema de análisis*:
+*Diagrama de flujo de usuario*:
 
-![](images/Analisis-Funcional-Mementos.jpg)
+![](images/diagrama_RA.jpg)
 
 
-**Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)**
+*Esquema narrativo de la historia*:
 
-*Pantalla de inicio*:  
+![](images/esquema_story.png)
 
-![](images/1_Mementos_Login.jpg) 
+*Diagrama radar de la experiencia transmedia*:
 
-*Pantalla de Mapa*: 
+![](images/diagrama_radar experiencia.jpeg)
 
-![](images/2_Mementos_Mapa.jpg) 
 
-*Pantalla de Lugar Seleccionado*: 
+**Diseño Visual de la experiencia para móvil (tratamiento gráfico de los elementos de la interfaz)**
 
-![](images/3_Mementos_Detalle_Lugar.jpg)
+*Paleta de color*:  
 
-*Pantalla de subida de nuevo mensaje*: 
+![](images/paleta_color.jpeg) 
 
-![](images/4_Mementos_Nuevo_Mensaje.jpg)
+*Propuesta de marcadores*: 
+
+![](images/marcadores_v2.jpeg) 
+
+*Wireframe de experiencia*: 
+
+![](images/wireframe_prototipo.jpeg)
+
+*Pantalla de visualización de la experiencia*: 
+
+![](images/trabajo_en_prototipo_2.jpeg)
+
 
 **Publicidad**:
 
