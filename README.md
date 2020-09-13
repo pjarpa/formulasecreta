@@ -73,7 +73,7 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 
 *Diagrama radar de la experiencia transmedia*:
 
-![](images/diagrama_radar experiencia.jpeg)
+![](images/diagrama_radar_experiencia.jpeg)
 
 
 **Diseño Visual de la experiencia para móvil (tratamiento gráfico de los elementos de la interfaz)**
@@ -95,13 +95,7 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 ![](images/trabajo_en_prototipo_2.jpeg)
 
 
-**Publicidad**:
-
-![](images/banner_mementos.jpg)
-
-**Integración de Medios**: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
-
-**Visualización de prototipo**: Para explicar las funcionalidades de la APP y realizar un primer testeo de usuarios se ha creado una presentación disponible en la Web de [Mementos](https://pjarpa.github.io/) y realizada con herramientas digitales de creación de contenido audiovisual y web como [Keynote](https://www.apple.com/keynote/), [Adobe Premiere](https://www.adobe.com/es/products/premiere.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340831002958!e!!g!!adobe%20premiere), [After Effects](https://www.adobe.com/es/products/aftereffects.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859134298!e!!g!!after%20effects) y [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
+**Visualización de prototipo**: Para explicar las funcionalidades de la experiencia y realizar un primer testeo de usuarios se ha creado un prototipo disponible en [Prototipo 1](https://pjarpa.github.io/prototipo1/), así como un segundo prototipo implementado en WebAR disponible en [Prototipo 2](https://pjarpa.github.io/prototipo2/)
 
 
 **Programación de prototipo de APP**:
@@ -117,11 +111,11 @@ Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) p
 
 ----
 
-### Conclusiones y trabajo futuro
+### Trabajo futuro
 
 
 * Grado de consecución del proyecto:
-Mementos pretende ser una app innovadora en su campo de interés y acción. Si bien existen actualmente aplicaciones que funcionan como "Cápsulas del tiempo" o herramientas de mensajes diferidos en el tiempo, estás más bien se orientan a un consumo personal y particular, no colaborativo ni menos como una forma de aporte social. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
+Fórmula Secreta pretende ser una experiencia WebAR innovadora en su campo de interés y acción. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion) 
 En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto en realidad aumentada. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de la experiencia de usuario (UE), de los recursos y los tiempos para el desarrollo de la app.
@@ -140,28 +134,22 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* [Experiments with Google: AR Experiments](https://experiments.withgoogle.com/collection/ar)
-* [Awwards-The awards of design, creativity and innovation on the internet](https://www.awwwards.com/)
-* [ARCore - build new augmented reality experiences](https://developers.google.com/ar/)
-* [Six Top Tools to Build Augmented Reality Mobile Apps](https://www.infoq.com/articles/augmented-reality-best-skds/)
-* [Chris Milk - Interactive Work](http://milk.co/interactive)
-* [Qué es y para que sirve un análisis funcional](https://www.fhios.es/para-que-sirve-un-analisis-funcional/)
-* [Front End & Back End Development](https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start)
-* [Appinventor](https://appinventor.mit.edu/)
+* [The elements of user experience](https://dl.acm.org/doi/10.1145/889692.889709) 
+* [Gary P Hayes: How to write a transmedia production bible ](https://speakerd.s3.amazonaws.com/presentations/08aedfa0fb56013102b94a47441122ce/Transmedia-prod-bible-template.pdf) 
+* [Robert Pratten: Getting Started with Transmedia Storytelling. A practical Guide for Beginners](http://www.tstoryteller.com/getting-started-in-transmedia-storytelling) 
 
 
 *Productos utilizados*: 
 
-* [Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
-* [Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
-* [Sketch - Plataforma de diseño gráfico](https://www.sketch.com/)
-* [Coda 2 - Editor de código web](https://panic.com/coda/)
-* [Rapidweaver - Software de diseño web](https://www.realmacsoftware.com/rapidweaver/)
-* [Scapple - Mapa de conceptos](https://www.literatureandlatte.com/scapple/overview)
+* [A-Frame - Framework web de código abierto para crear experiencias de realidad virtual y aumentada](https://aframe.io/)
+* [AR.js - Librería java para realidad aumentada](https://github.com/AR-js-org)
 * [Github](https://github.com/)
-* [Trello](https://trello.com/patriciajarpa1/boards)
+* [Proto.io - plataforma de creación de prototipos de aplicaciones](https://proto.io/)
+* [Blender - Programa de modelado, iluminación, renderizado, animación y creación de gráficos tridimensionales](https://www.blender.org/)
+* [Brackets - Editor de código web](https://brackets.io/)
+* [Rapidweaver - Software de diseño web](https://www.realmacsoftware.com/rapidweaver/)
+* [Diagrams.net - Mapa de conceptos](https://app.diagrams.net/)
+* [Sketch - Plataforma de diseño gráfico](https://www.sketch.com/)
 * [Keynote - Software de Presentaciones](https://www.apple.com/keynote/)
 * [Adobe Premiere - Programa de Edición de Video](https://www.adobe.com/es/products/premiere.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340831002958!e!!g!!adobe%20premiere) 
 * [After Effects - Programa de efectos de video](https://www.adobe.com/es/products/aftereffects.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859134298!e!!g!!after%20effects)
