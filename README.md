@@ -5,7 +5,7 @@ Proyecto de Narrativas Transmedia en Nuevos Medios
 
 **Resumen** :  Con este proyecto se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje.
 
-**Logotipo**: ![](images/Logo_Mementos.jpg)
+**Logotipo**: ![](images/logo_formula.jpg)
 
 **Slogan** (frase motivadora/inspiradora): "Descubre el secreto oculto de la cerveza"
 
