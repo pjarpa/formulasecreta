@@ -1,5 +1,5 @@
 # formulasecreta
-Proyecto de Narrativas Transmedia en Nuevos Medios
+Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Título** : “La fórmula: descubre el secreto oculto de la cerveza a través de la realidad aumentada”
 
