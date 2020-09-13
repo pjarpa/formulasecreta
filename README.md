@@ -7,7 +7,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Resumen** :  Con este proyecto se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje y la tecnología WebAR para su difusión.
 
-**Logotipo**: ![](images/logo_formula_v2.jpeg)
+**Logotipo**: ![](images/Logo_Formula_v2.jpeg)
 
 **Slogan** (frase motivadora/inspiradora): "Descubre el secreto oculto de la cerveza"
 
