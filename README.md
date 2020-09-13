@@ -1,4 +1,4 @@
-# formulasecreta
+# laformula
 Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Título** : “La fórmula: descubre el secreto oculto de la cerveza a través de la realidad aumentada”
@@ -7,7 +7,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Resumen** :  Con este proyecto se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje y la tecnología WebAR para su difusión.
 
-**Logotipo**: ![](images/logo_formula.jpeg)
+**Logotipo**: ![](images/logo_formula_v2.jpeg)
 
 **Slogan** (frase motivadora/inspiradora): "Descubre el secreto oculto de la cerveza"
 
@@ -18,7 +18,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia):
-* WebPage (github url): [Fórmula Secreta](https://formulasecreta.github.io/)
+* WebPage (github url): [La Fórmula](https://formulasecreta.github.io/)
 * Twitter
 * Instagram
 * Yotube
