@@ -11,14 +11,14 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Slogan** (frase motivadora/inspiradora): "Descubre el secreto oculto de la cerveza"
 
-**Hashtag**  #augmentedreality #realidadaumentada #storytelling #transmedia 
+**Hashtag**  #augmentedreality #realidadaumentada #storytelling #transmedia #advertising
 
 **Licencia**  :   ![](images/88x31.png) CC BY-NC-SA
 
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia):
-* WebPage (github url): [Fórmula Secreta](https://pjarpa.github.io/)
+* WebPage (github url): [Fórmula Secreta](https://formulasecreta.github.io/)
 * Twitter
 * Instagram
 * Yotube
@@ -98,15 +98,15 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 **Visualización de prototipo**: Para explicar las funcionalidades de la experiencia y realizar un primer testeo de usuarios se ha creado un prototipo disponible en [Prototipo 1](https://pjarpa.github.io/prototipo1/), así como un segundo prototipo implementado en WebAR disponible en [Prototipo 2](https://pjarpa.github.io/prototipo2/)
 
 
-**Programación de prototipo de APP**:
-Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Etapa aún en fase de construcción.
+**Programación de prototipo en WebAR**:
+Utilización de libreria [A-Frame](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone) 
 
-* El prototipo de la APP Mementos será evaluada en una primera fase a través de la APP de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) que permitirá obtener feedback de los usuarios que accedan al contenido de prueba.
+* El prototipo de la experiencia Fórmula secreta fue evaluada en una primera fase a través de Google Forms [Formulario Prototipo 1](https://docs.google.com/forms/d/12yd4igBR3puorx_i5pLJdeFm3LyRU5G7014WrS4TlLA/edit) que permitieron obtener feedback de los usuarios que accedían al contenido de prueba.
 * La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la app, además de habilitar un formulario de contacto en la misma página del proyecto [Mementos](https://pjarpa.github.io/)
 
 ----
