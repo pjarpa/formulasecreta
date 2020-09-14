@@ -13,7 +13,9 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Hashtag**  #augmentedreality #realidadaumentada #storytelling #transmedia #advertising
 
-**Licencia**  :  La guía metodológica de trabajo adoptada para la generación del prototipo de este proyecto, además de los elementos visuales diseñados y construidos en 3D y 2D, en conjunto con el código fuente generado para la construcción del sitio WebAR prototipo, quedan a disposición como instrumento educativo y colaborativo bajo licencia Creative Commons CC BY-NC-SA ![](images/cc-license.jpg) 
+**Licencia**  :  La guía metodológica de trabajo adoptada para la generación del prototipo de este proyecto, además de los elementos visuales diseñados y construidos en 3D y 2D, en conjunto con el código fuente generado para la construcción del sitio WebAR prototipo, quedan a disposición como instrumento educativo y colaborativo bajo licencia Creative Commons CC BY-NC-SA 
+
+![](images/cc-license.jpg) 
 
 **Fecha** : 2020
 
