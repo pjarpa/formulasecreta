@@ -20,7 +20,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia):
-* WebPage (github url): [La Fórmula](https://formulasecreta.github.io/)
+* WebPage (github url): [La Fórmula](https://laformula.github.io/)
 * Twitter
 * Instagram
 * Yotube
