@@ -13,7 +13,9 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Hashtag**  #augmentedreality #realidadaumentada #storytelling #transmedia #advertising
 
-**Licencia**  :   ![](images/88x31.png) CC BY-NC-SA
+**Licencia**  :  La guía metodológica de trabajo adoptada para la generación del prototipo de este proyecto, además de los elementos visuales diseñados y construidos en 3D y 2D, en conjunto con el código fuente generado para la construcción del sitio WebAR prototipo, quedan a disposición como instrumento educativo y colaborativo bajo licencia Creative Commons CC BY-NC-SA 
+
+![](images/cc-license.jpg) 
 
 **Fecha** : 2020
 
@@ -99,15 +101,14 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 
 
 **Programación de prototipo en WebAR**:
-Utilización de libreria [A-Frame](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
+Utilización de libreria [A-Frame](https://aframe.io/) y [Ar.js](https://ar-js-org.github.io/AR.js-Docs/)para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Github](https://github.com/) para el alojamiento de los archivos contenidos que pueden ser visualizados a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone) 
 
 * El prototipo de la experiencia Fórmula secreta fue evaluada en una primera fase a través de Google Forms [Formulario Prototipo 1](https://docs.google.com/forms/d/12yd4igBR3puorx_i5pLJdeFm3LyRU5G7014WrS4TlLA/edit) que permitieron obtener feedback de los usuarios que accedían al contenido de prueba.
-* La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la app, además de habilitar un formulario de contacto en la misma página del proyecto [Formula Secreta](https://pjarpa.github.io/formulasecreta)
+* La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la experiencia, además de habilitar un formulario de contacto en la misma página del proyecto [Formula Secreta](https://pjarpa.github.io/formulasecreta)
 
 ----
 
@@ -117,14 +118,14 @@ Utilización de libreria [A-Frame](http://www.aumentaty.com/index.php) para el d
 * Grado de consecución del proyecto:
 Fórmula Secreta pretende ser una experiencia WebAR innovadora en su campo de interés y acción. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion) 
-En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto en realidad aumentada. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de la experiencia de usuario (UE), de los recursos y los tiempos para el desarrollo de la app.
+* Problemas identificados
+En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto en realidad aumentada. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de la experiencia de usuario (UE), de los recursos y los tiempos para el desarrollo de la experiencia.
 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
+* Propuestas de mejora
 Es un proyecto que tiene un gran potencial de desarrollo, si bien en su inicio podría ser limitada en cuanto a sus funcionalidades, ésta puede ser de gran interés para el público que se interese por su uso y que encuentre en ella novedosas formas de aplicar el contenido de Realidad Aumentada creada en este sistema en otros campos de interés como la educación o la investigación.
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-Posibles colaboradores podrían ser diseñadores y programadores que se sientan motivados a trabajar en un equipo colaborativo para la producción de una app de estas características, teniendo en cuenta que para la generación de este producto es factible utilizar herramientas open source  que disminuyan los costos de implementación y no sea tan difícil su distribución para su testeo en un grupo de usuarios de prueba. También se apuesta a captar eventuales inversores que podrían encontrar alguna utilidad en las funcionalidades de Memento, ya sea estamentos públicos o privados como museos, organizaciones educativas o de promoción del turismo.
+* Posible interés del proyecto
+Posibles colaboradores podrían ser diseñadores, programadores y guionistas que se sientan motivados a trabajar en un equipo colaborativo para la producción de una experiencia de estas características, teniendo en cuenta que para la generación de este producto es factible utilizar herramientas open source  que disminuyan los costos de implementación y no sea tan difícil su distribución para su testeo en un grupo de usuarios de prueba. También se apuesta a captar eventuales inversores que puedan tener interés en el proyecto y ayuden a financiarlo para su implementación.
 
 ----
 
