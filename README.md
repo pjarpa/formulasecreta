@@ -101,7 +101,7 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 
 
 **Programación de prototipo en WebAR**:
-Utilización de libreria [A-Frame](https://aframe.io/) y [Ar.js](https://ar-js-org.github.io/AR.js-Docs/)para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Github](https://github.com/) para el alojamiento de los archivos contenidos que pueden ser visualizados a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
+Utilización de libreria [A-Frame](https://aframe.io/) y [Ar.js](https://ar-js-org.github.io/AR.js-Docs/) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Github](https://github.com/) para el alojamiento de los archivos contenidos que pueden ser visualizados a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -149,7 +149,7 @@ Posibles colaboradores podrían ser diseñadores, programadores y guionistas que
 * [Blender - Programa de modelado, iluminación, renderizado, animación y creación de gráficos tridimensionales](https://www.blender.org/)
 * [Makehuman: Aplicación open source de gráficos 3D para prototipado de figuras humanas](http://www.makehumancommunity.org/)
 * [Brackets - Editor de código web](https://brackets.io/)
-* [AR.js Marker Training: Herramienta en línea que permite generar marcadores personalizados para ser usados con realidad aumentada](https://jeromeetienne.github.io/AR.js/three.js/examples/marker- training/examples/generator.html)
+* [AR.js Marker Training: Herramienta en línea que permite generar marcadores personalizados para ser usados con realidad aumentada](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 * [Diagrams.net: Programa de diagramación en línea para la creación de mapas de conceptos y diagramas de flujo](https://app.diagrams.net)
 * [Rapidweaver - Software de diseño web](https://www.realmacsoftware.com/rapidweaver/)
 * [Keynote - Software de Presentaciones](https://www.apple.com/keynote/)
