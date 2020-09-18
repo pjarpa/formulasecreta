@@ -149,7 +149,7 @@ Posibles colaboradores podrían ser diseñadores, programadores y guionistas que
 * [Blender - Programa de modelado, iluminación, renderizado, animación y creación de gráficos tridimensionales](https://www.blender.org/)
 * [Makehuman: Aplicación open source de gráficos 3D para prototipado de figuras humanas](http://www.makehumancommunity.org/)
 * [Brackets - Editor de código web](https://brackets.io/)
-* [AR.js Marker Training: Herramienta en línea que permite generar marcadores personalizados para ser usados con realidad aumentada](https://jeromeetienne.github.io/AR.js/three.js/examples/marker- training/examples/generator.html]
+* [AR.js Marker Training: Herramienta en línea que permite generar marcadores personalizados para ser usados con realidad aumentada](https://jeromeetienne.github.io/AR.js/three.js/examples/marker- training/examples/generator.html)
 * [Diagrams.net: Programa de diagramación en línea para la creación de mapas de conceptos y diagramas de flujo](https://app.diagrams.net)
 * [Rapidweaver - Software de diseño web](https://www.realmacsoftware.com/rapidweaver/)
 * [Keynote - Software de Presentaciones](https://www.apple.com/keynote/)
