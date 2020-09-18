@@ -17,7 +17,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 ![](images/cc-license.jpg) 
 
-**Fecha** : 2020
+**Fecha** : Última actualización 16 de Septiembre, 2020
 
 **Medios** (donde se tiene presencia):
 * WebPage (github url): [La Fórmula](https://laformula.github.io/)
@@ -140,20 +140,21 @@ Posibles colaboradores podrían ser diseñadores, programadores y guionistas que
 * [Robert Pratten: Getting Started with Transmedia Storytelling. A practical Guide for Beginners](http://www.tstoryteller.com/getting-started-in-transmedia-storytelling) 
 
 
-*Productos utilizados*: 
+*Programas utilizados*: 
 
 * [A-Frame - Framework web de código abierto para crear experiencias de realidad virtual y aumentada](https://aframe.io/)
 * [AR.js - Librería java para realidad aumentada](https://github.com/AR-js-org)
 * [Github](https://github.com/)
 * [Proto.io - plataforma de creación de prototipos de aplicaciones](https://proto.io/)
 * [Blender - Programa de modelado, iluminación, renderizado, animación y creación de gráficos tridimensionales](https://www.blender.org/)
+* [Makehuman: Aplicación open source de gráficos 3D para prototipado de figuras humanas](http://www.makehumancommunity.org/)
 * [Brackets - Editor de código web](https://brackets.io/)
+* [AR.js Marker Training: Herramienta en línea que permite generar marcadores personalizados para ser usados con realidad aumentada](https://jeromeetienne.github.io/AR.js/three.js/examples/marker- training/examples/generator.html]
+* [Diagrams.net: Programa de diagramación en línea para la creación de mapas de conceptos y diagramas de flujo](https://app.diagrams.net)
 * [Rapidweaver - Software de diseño web](https://www.realmacsoftware.com/rapidweaver/)
-* [Diagrams.net - Mapa de conceptos](https://app.diagrams.net/)
-* [Sketch - Plataforma de diseño gráfico](https://www.sketch.com/)
 * [Keynote - Software de Presentaciones](https://www.apple.com/keynote/)
-* [Adobe Premiere - Programa de Edición de Video](https://www.adobe.com/es/products/premiere.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340831002958!e!!g!!adobe%20premiere) 
-* [After Effects - Programa de efectos de video](https://www.adobe.com/es/products/aftereffects.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859134298!e!!g!!after%20effects)
+* [Adobe Illustrator - Programa editor de gráficos vectoriales](https://www.adobe.com/es/products/illustrator.html)
+
 
 
 
