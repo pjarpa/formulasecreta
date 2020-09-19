@@ -5,7 +5,7 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 **Autor(es)** : Patricia Jarpa Candia
 
-**Resumen** :  Este proyecto nace a partir del trabajo final del [Master en Nuevos medios Interactivos y Periodismo Multimedia de la Universidad de Granada](https://masteres.ugr.es/newmedia_periodismomultimedia/), que he cursado el el período 2019-2020, donde adquirí conocimientos y formación que me impulsó a realizar esta idea. Se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje y la tecnología WebAR para su difusión.
+**Resumen** :  Este proyecto nace a partir del trabajo final del [Master en Nuevos medios Interactivos y Periodismo Multimedia de la Universidad de Granada](https://masteres.ugr.es/newmedia_periodismomultimedia/), que he cursado en el período 2019-2020, donde adquirí conocimientos y formación que me impulsó a realizar esta idea. Se propone crear una experiencia en realidad aumentada que ofrece la creación de una narrativa digital dentro de un contexto de expansión del mensaje publicitario, usando el móvil como medio de transmisión del mensaje y la tecnología WebAR para su difusión.
 
 **Logotipo**: ![](images/Logo_Formula_v2.jpeg)
 
