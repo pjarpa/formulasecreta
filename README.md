@@ -106,7 +106,7 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 
 Para explicar las funcionalidades de la experiencia y realizar un primer testeo de usuarios se ha creado un prototipo disponible en [Prototipo 1](https://pjarpa.github.io/prototipo1/), así como un segundo prototipo implementado en WebAR disponible en [Prototipo 2](https://pjarpa.github.io/prototipo2/).
 
-El [Prototipo 3](https://pjarpa.github.io/prototipo3/), posee un cubo que se puede imprimir y descargar [aquí](https://github.com/pjarpa/laformula/blob/master/files/cubo_formula.zip)
+El [Prototipo 3](https://pjarpa.github.io/prototipo3/), posee un cubo que se puede imprimir y descargar [aquí](https://github.com/pjarpa/laformula/blob/master/cubo/cubo_formula.zip), así como los elementos gráficos y modelos GLTF de los personajes que se encuentran en la carpeta "Media" de este mismo repositorio.
 
 **Programación de prototipo en WebAR**:
 Utilización de libreria [A-Frame](https://aframe.io/) y [Ar.js](https://ar-js-org.github.io/AR.js-Docs/) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Github](https://github.com/) para el alojamiento de los archivos contenidos que pueden ser visualizados a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada. Etapa aún en fase de construcción.
