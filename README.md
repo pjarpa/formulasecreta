@@ -32,6 +32,12 @@ Proyecto de Narrativas Transmedia en Realidad Aumentada
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) y Narrativas Transmedia
 
+**Conceptos claves**:
+
+¿Qué es la Realidad Aumentada?: es una tecnología que permite superponer elementos virtuales, información adicional en forma de gráficos o imágenes, sobre nuestro entorno real. Para ello pueden utilizarse dispositivos móviles o gafas que añaden en tiempo real esta información virtual a la realidad vista por el usuario, facilitándoles la entretención, el aprendizaje, la toma de decisiones o la ejecución de tareas de manera rápida y eficiente.
+
+¿Que es narrativa transmedia?: El transmedia storytelling o narrativa transmedia describe aquella narración que se dispersa sistemáticamente a través de distintos canales de distribución, con el fin de lograr una experiencia de entretenimiento unificada y coordinada, dando la oportunidad a los usuarios o espectadores para que interactúen con ella, pudiendo incluso tomar un rol activo como parte de la historia.
+
 ### Etapa 1: Ideación de proyecto 
 
 **Necesidad/oportunidad**:
@@ -43,10 +49,9 @@ El uso de tecnologías innovadoras y nuevas formas de comunicación que permitan
 
 **Descripción de la experiencia**:
 
-Se pretende construir una historia principal emplazada dentro de la realidad aumentada, con un inicio obligado, transitando luego por una narrativa modular en que el usuario puede elegir distintos caminos a recorrer, dependiendo de su interés y curiosidad, enfrentándose a desafíos y juegos. Sólo al final del recorrido, en un punto común para todas las líneas narrativas, el usuario deberá responder a un cuestionario donde se pondrá a prueba sus capacidades de investigación, reconociendo en esa acción la fórmula secreta, que ha sido el motivo de inicio de la experiencia.
+Una historia principal emplazada dentro de la realidad aumentada, con un inicio obligado, transitando luego por una narrativa modular en que el usuario puede elegir distintos caminos a recorrer, dependiendo de su interés y curiosidad, enfrentándose a desafíos y juegos. Sólo al final del recorrido, en un punto común para todas las líneas narrativas, el usuario deberá responder a un cuestionario donde se pondrá a prueba sus capacidades de investigación, reconociendo en esa acción la fórmula secreta, que ha sido el motivo de inicio de la experiencia.
 
-Se propone además medios de expansión donde los usuarios podrán acceder a información complementaria de la historia, así como para compartir ideas y opiniones. Para ello se proyecta la creación de una página web especial o Wiki 
-con datos sobre lugares y personajes que inspiraron la narración, recomendaciones de maridaje y música, además de un espacio creativo llamado Historia Exquisita donde los usuarios podrán seguir expandiendo la historia a partir de una línea narrativa no desarrollada en la historia original y que permitirá, a través de la colaboración colectiva, ir construyendo un nuevo texto literario.
+Se propone además medios de expansión donde los usuarios podrán acceder a información complementaria de la historia, así como para compartir ideas y opiniones. Para ello se proyecta la creación de una página web especial o Wiki con datos sobre lugares y personajes que inspiraron la narración, recomendaciones de maridaje y música, además de un espacio creativo llamado Historia Exquisita donde los usuarios podrán seguir expandiendo la historia a partir de una línea narrativa no desarrollada en la historia original y que permitirá, a través de la colaboración colectiva, ir construyendo un nuevo texto literario.
 
 También se tendrá una extensión en redes sociales, para ofrecer narrativas en relación a la historia principal, a través de contenido aparentemente creado por los personajes principales, sea a través del hilado de mensajes del personaje el Escritor en la red de microblogging de Twitter, o el posteo en Instagram de el Camarero. 
 
@@ -55,12 +60,12 @@ La experiencia de realidad aumentada considera el que los usuarios pueden compar
 
 **Estilo de narración**:
 
-La audiencia se sumergirá en la historia a través del rol de la protagonista, la detective Carolina Bravo, que a través de la elección de pistas y de entrevistas, deberá descubrir cuál es la fórmula secreta tras una enigmática cerveza. El medio principal será la Realidad Aumentada, cuya vía de acceso será a través de marcadores o imágenes activadoras que formarán parte del empaque de la marca y que serán capturados a través del móvil del usuario. El relato al interior de la realidad aumentada se propagará a través de distintos formatos, utilizando imágenes 3D y 2D, audios, videos, y textos para generar la experiencia de inmersión en la historia, así como la inclusión de redes sociales y página web para aportar información, ampliar la narración y permitir acciones para promover la participación del usuario.
+La audiencia se sumergirá en la historia a través del rol de la protagonista, la detective Carolina Bravo, que a través de la elección de pistas y de entrevistas, deberá descubrir cuál es la fórmula secreta tras una enigmática cerveza. El medio principal es la Realidad Aumentada, cuya vía de acceso será a través de marcadores o imágenes activadoras que formarán parte del empaque de la marca y que serán capturados a través del móvil del usuario. El relato al interior de la realidad aumentada se propagará a través de distintos formatos, utilizando imágenes 3D y 2D, audios, videos, y textos para generar la experiencia de inmersión en la historia, así como la inclusión de redes sociales y página web para aportar información, ampliar la narración y permitir acciones para promover la participación del usuario.
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios) 
+(Productos desarrollados y como se plantea su integración de los diferentes medios) 
 
 **Análisis funcional de la experiencia**: 
 
