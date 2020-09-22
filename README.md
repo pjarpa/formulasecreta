@@ -113,7 +113,7 @@ Utilización de libreria [A-Frame](https://aframe.io/) y [Ar.js](https://ar-js-o
 
 
 * El prototipo de la experiencia Fórmula secreta fue evaluada en una primera fase a través de Google Forms [Formulario Prototipo 1](https://docs.google.com/forms/d/12yd4igBR3puorx_i5pLJdeFm3LyRU5G7014WrS4TlLA/edit) que permitieron obtener feedback de los usuarios que accedían al contenido de prueba.
-* La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la experiencia, además de habilitar un formulario de contacto en la misma página del proyecto [Formula Secreta](https://pjarpa.github.io/formulasecreta)
+* La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la experiencia, además de habilitar un formulario de contacto en la misma página del proyecto [Formula Secreta](https://laformula.github.io/)
 
 ----
 
