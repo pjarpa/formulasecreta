@@ -78,7 +78,7 @@ La audiencia se sumergirá en la historia a través del rol de la protagonista, 
 
 ![](images/esquema_story.png)
 
-*Diagrama radar de la experiencia transmedia*:
+*Diagrama radar de la experiencia transmedia*: Elaboración propia a partir del modelo Transmedia Radiar Diagram por Robert Pratten, 2015, Getting Starded in Transmedia Storytelling, p.19. Copyright 2015 Robert Pratten.
 
 ![](images/diagrama_radar_experiencia.jpeg)
 
